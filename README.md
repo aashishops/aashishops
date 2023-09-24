@@ -32,8 +32,7 @@
 </br>
 <br>
 </br>
-<br>
-</br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&locale=en" alt="aashishops" /></p>
 <br>
 </br>
