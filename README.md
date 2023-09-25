@@ -43,6 +43,8 @@
 <br>
 </br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishops&theme=transparent" alt="aashishops" /></p>
+<br>
+</br>
 
-<img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" />
+<p><img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" /></p>
 
