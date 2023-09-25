@@ -45,7 +45,8 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 <br/>  
 
 
-## Languages and Tools   
+## Languages and Tools  
+<div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -71,40 +72,30 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 
 ## Github Stats  
-<tr><td width="50%">
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td width="50%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishops&hide_border=true&layout=compact" align="left" style="width: 50%" />  
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishops&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
-
-<br/>
-
-<br>
-
-
-
-
-
-<br/>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</td></tr>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" />
-
+</td></tr></table>  
 
 <br/>  
+
+  
+
 <br/>  
+
+  
+
 <br/>  
+
+
 <br />
 
-
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
