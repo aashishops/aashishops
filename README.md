@@ -30,7 +30,9 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 - 🔭 I’m currently working on [Footistics - A Complete Football Analysis](https://github.com/aashishops/FB-Analysis-st)  
   
 
-- 🌱 I’m currently learning Tensorflow and Scikit Learn   
+- 🌱 I’m currently learning Tensorflow and Scikit Learn
+
+- 🚀 Machine Learning | 📊 Data Science | ⚽ Football Enthusiast | 🐍 Python | 🧠 Deep Learning | 🔥 Passion for Innovation
 
 
 </td><td valign="top" width="50%">
