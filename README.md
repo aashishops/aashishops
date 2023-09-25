@@ -87,7 +87,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 <br>
 <br/>
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)
+![Listening to on Spotify]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile))
 
 </td></tr>
 
