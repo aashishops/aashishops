@@ -97,5 +97,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" />
+
