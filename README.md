@@ -66,7 +66,7 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-light.png" alt="streamlit" height="50" width ="50" /></a>
-<a href="https://scikit-learn.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit learn" height="50" width ="50" /></a>
+<a href="https://scikit-learn.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit learn" height="50" " /></a>
 
 </div>  
 
