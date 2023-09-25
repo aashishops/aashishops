@@ -71,7 +71,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 
 ## Github Stats  
-<table><tr><td width="50%">
+<tr><td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -89,7 +89,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)
 
-</td></tr></table>  
+</td></tr>
 
 
 <br clear="both">
