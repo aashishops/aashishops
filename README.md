@@ -17,8 +17,8 @@
 
 
 
-### Glad to see you here!  
-Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub profile is where I share my project in machine learning, deep learning, and all things data science. Join me on this journey as we explore the exciting world of data and unravel the mysteries of the beautiful game! Let's explore the world of data and kick some goals together! 📊📈   
+### About Me  
+A data science kid with a love for football ⚽. My GitHub profile is where I share my project in machine learning, deep learning, and all things data science. Join me on this journey as we explore the exciting world of data and unravel the mysteries of the beautiful game! Let's explore the world of data and kick some goals together! 📊📈   
   
 
 <br/>  
@@ -99,6 +99,4 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 <br />
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" />
 
