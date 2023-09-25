@@ -25,7 +25,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Footistics](https://github.com/aashishops/FB-Analysis-st)  
   
@@ -40,7 +40,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 </div>  
 
 
-</td></tr></table>  
+</td> 
 
 <br/>  
 
