@@ -45,8 +45,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
+## Languages and Tools   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
@@ -72,7 +71,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
