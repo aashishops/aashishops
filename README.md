@@ -32,7 +32,7 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 
 - 🌱 I’m currently learning Tensorflow and Scikit Learn
 
-- 🚀 Machine Learning | 📊 Data Science | ⚽ Football Enthusiast | 🐍 Python | 🧠 Deep Learning | 🔥 Passion for Innovation
+- 📊 Data Science | 🚀 Machine Learning |  ⚽ Football Enthusiast | 🐍 Python | 🧠 Deep Learning | 🔥 Passion for Innovation
 
 
 </td><td valign="top" width="50%">
