@@ -27,7 +27,7 @@ Hello there! 👋 I'm a data science kid with a love for football ⚽. My GitHub
 ## Rapidfire  
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Footistics](https://github.com/aashishops/FB-Analysis-st)  
+- 🔭 I’m currently working on [Footistics - A Complete Football Analysis](https://github.com/aashishops/FB-Analysis-st)  
   
 
 - 🌱 I’m currently learning Tensorflow and Scikit Learn   
