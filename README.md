@@ -100,3 +100,5 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/aashishops/aashishops/output/snake.svg" alt="Snake animation" />
+
