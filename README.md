@@ -82,8 +82,6 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishops&hide_border=true&layout=compact&theme=dark" align="left" style="width: 50%" />  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dq97ntn9ci7lsc28j2t5shi1p&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
-
 </td>
 
 <br/>  
