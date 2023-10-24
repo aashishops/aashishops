@@ -24,7 +24,7 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 ## Rapidfire  
 <td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Footistics - A Complete Football Analysis](https://github.com/aashishops/FB-Analysis-st) ,[Hymnastic - A music Recommendation Cum Stats App](https://github.com/aashishops/Hymnastic--A-music-App)
+- 🔭 I’m currently working on [Hymnastic - A music Recommendation Cum Stats App](https://github.com/aashishops/Hymnastic--A-music-App)
   
 
 - 🌱 I’m currently learning Tensorflow and Scikit Learn
