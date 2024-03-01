@@ -74,7 +74,7 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishops&hide_border=true&layout=compact&theme=dark" align="left" style="width: 50%" />  
-[![aashishops's GitHub | Topics Over Time](https://stats.quine.sh/aashishops/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aashishops)
+
 
 </td>
 
