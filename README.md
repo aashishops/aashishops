@@ -27,7 +27,7 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 - 🔭 I’m currently working on [Thyroid Performance Analysis ](https://github.com/aashishops/Thyroid-Performance-Analysis)
   
 
-- 🌱 I’m currently learning Tensorflow and Scikit Learn
+- 🌱 I’m currently learning Tensorflow and Pytorch
 
 - 📊 Data Science | 🚀 Machine Learning |  ⚽ Football Enthusiast | 🐍 Python | 🧠 Deep Learning | 
 
