@@ -69,6 +69,8 @@ A data science kid with a love for football ⚽. My GitHub profile is where I sh
 ## Github Stats  
 <td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aashishops&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 50%" />
+
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishops&hide_border=true&layout=compact&theme=dark" align="left" style="width: 50%" />  
